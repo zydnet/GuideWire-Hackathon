@@ -20,9 +20,11 @@
 - [Signal-Based Fraud Detection System](#-signal-based-fraud-detection-system)
 - [Premium Model](#-premium-model-that-makes-sense)
 - [System Architecture](#-system-architecture)
+- [Adversarial Defense & Anti-Spoofing Strategy](#-adversarial-defence)
 - [User Experience](#-user-experience-flow)
 - [Tech Stack](#-tech-stack--innovation)
 - [Development Roadmap](#-development-roadmap)
+- [Media & Demo](#-media-demo)
 - [Team](#-team-void-main)
 
 ---
