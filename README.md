@@ -2,11 +2,11 @@
 
 <div align="center">
   
-  [![Made by Team Void Main()](https://img.shields.io/badge/Team-Void%20Main%20()-blueviolet?style=for-the-badge&logo=python)](https://github.com/your-repo)
-  [![GuideWire Hackathon](https://img.shields.io/badge/GuideWire-Hackathon%202024-ff6b35?style=for-the-badge&logo=guidewire)](https://)
-  [![Prototype](https://img.shields.io/badge/Status-Prototype-brightgreen?style=for-the-badge)](https://)
-  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
-  [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=for-the-badge)](http://makeapullrequest.com)
+[![Made by Team Void Main()](https://img.shields.io/badge/Team-Void%20Main%20()-blueviolet?style=for-the-badge&logo=python)](https://github.com/your-repo)
+[![GuideWire Hackathon](https://img.shields.io/badge/GuideWire-Hackathon%202026-ff6b35?style=for-the-badge&logo=guidewire)](https://)
+[![Prototype](https://img.shields.io/badge/Status-Prototype-brightgreen?style=for-the-badge)](https://)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=for-the-badge)](http://makeapullrequest.com)
   
   ### *Because Rain Shouldn't Mean Empty Plates* 🍽️☔
   
@@ -14,18 +14,19 @@
 </div>
 
 ---
-## 📋 **Table of Contents**
-- [The $5B Problem](#-the-5b-problem-nobodys-solving)
-- [Our Innovation](#-our-innovation-income-linked-presence)
-- [Signal-Based Fraud Detection System](#-signal-based-fraud-detection-system)
-- [Premium Model](#-premium-model-that-makes-sense)
-- [System Architecture](#-system-architecture)
-- [Adversarial Defense & Anti-Spoofing Strategy](#-adversarial-defence)
-- [User Experience](#-user-experience-flow)
-- [Tech Stack](#-tech-stack--innovation)
-- [Development Roadmap](#-development-roadmap)
-- [Media & Demo](#-media-demo)
-- [Team](#-team-void-main)
+## 📋 Table of Contents
+
+- [The $5B Problem](#the-5b-problem-nobodys-solving)
+- [Our Innovation](#our-innovation-income-linked-presence)
+- [Signal-Based Fraud Detection System](#signal-based-fraud-detection-system)
+- [Premium Model](#premium-model-that-makes-sense)
+- [System Architecture](#system-architecture)
+- [Adversarial Defense & Anti-Spoofing Strategy](#adversarial-defense--anti-spoofing-strategy)
+- [User Experience](#user-experience-flow)
+- [Tech Stack](#tech-stack--innovation)
+- [Development Roadmap](#development-roadmap)
+- [Media & Demo](#media--demo)
+- [Team](#team-void-main)
 
 ---
 
